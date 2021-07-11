@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
+mongoose.connect(process.env.ATLAS_URI || "mongodb+srv://andrea:andrea82@cluster0.8f3ol.mongodb.net/workouts?retryWrites=true&w=majority", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
