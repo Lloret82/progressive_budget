@@ -35,7 +35,7 @@ Track your finance with this Progressive Budget. The app will keep track of your
 Running seeders/seed.js is optional to have a prepopulated database.
 
 <p align="center">
-    <a href="https://lloret82-progressive_budget.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://progressive-budget-lloret82.herokuapp.com"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 
