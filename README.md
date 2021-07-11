@@ -1,15 +1,15 @@
-# Progressive-Budget
+# Progressive_Budget
 
 </br>
 <p align="center">
-    <img src="https://img.shields.io/github/languages/top/lloret82/progressive-budget?style=for-the-badge" alt="Top Language" />
-    <img src="https://img.shields.io/github/repo-size/lloret82/progressive-budget?style=for-the-badge" alt="Repo Size" />   
-    <img src="https://img.shields.io/tokei/lines/github/lloret82/progressive-budget?style=for-the-badge" alt="Total Lines" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive-budget/express?style=for-the-badge" alt="Express Version" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive-budget/mongoose?style=for-the-badge" alt="Mongoose Version" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive-budget/morgan?style=for-the-badge" alt="Morgan Version" />
-    <img src="https://img.shields.io/github/last-commit/lloret82/progressive-budget?style=for-the-badge" alt="Last Commit" />  
-    <img src="https://img.shields.io/github/issues/lloret82/progressive-budget?style=for-the-badge" alt="Issues" />  
+    <img src="https://img.shields.io/github/languages/top/lloret82/progressive_budget?style=for-the-badge" alt="Top Language" />
+    <img src="https://img.shields.io/github/repo-size/lloret82/progressive_budget?style=for-the-badge" alt="Repo Size" />   
+    <img src="https://img.shields.io/tokei/lines/github/lloret82/progressive_budget?style=for-the-badge" alt="Total Lines" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive_budget/express?style=for-the-badge" alt="Express Version" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive_budget/mongoose?style=for-the-badge" alt="Mongoose Version" />
+    <img src="https://img.shields.io/github/package-json/dependency-version/lloret82/progressive_budget/morgan?style=for-the-badge" alt="Morgan Version" />
+    <img src="https://img.shields.io/github/last-commit/lloret82/progressive_budget?style=for-the-badge" alt="Last Commit" />  
+    <img src="https://img.shields.io/github/issues/lloret82/progressive_budget?style=for-the-badge" alt="Issues" />  
     <img src="https://img.shields.io/github/followers/lloret82?style=social" alt="Followers" />  
 </p>
 
@@ -35,7 +35,7 @@ Track your finance with this Progressive Budget. The app will keep track of your
 Running seeders/seed.js is optional to have a prepopulated database.
 
 <p align="center">
-    <a href="https://lloret82-progressive-budget.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://lloret82-progressive_budget.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 
